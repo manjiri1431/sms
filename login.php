@@ -7,7 +7,7 @@ if(isset($_SESSION['uid']))
 ?>
 <html>
 <head>
-<title>admin login</title>
+<title>Admin login</title>
 </head>
 <body>
 <h1 align="center">Admin login</h1>
